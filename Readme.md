@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Денис Горшков](https://up.htmlacademy.ru/htmlcss/32/user/164768).
-* Наставник: [Наталья Шурыгина](https://htmlacademy.ru/profile/id1178327) выа
+* Наставник: [Наталья Шурыгина](https://htmlacademy.ru/profile/id1178327)
 
 ---
 
